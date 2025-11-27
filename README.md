@@ -8,7 +8,7 @@ adequately compensated.
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/df01e9be-4004-4250-b047-73a005de4e92)
 
 ## Salary Analysis  
-A a former job seeker,I've been surprised by the lack of data exploring the most optimal jobs and skills at the data science market. I set
+As a former job seeker,I've been surprised by the lack of data exploring the most optimal jobs and skills at the data science market. I set
 out to understand what skills top employers request and how to land more pay.  
 [Check out my work here]()  
 
